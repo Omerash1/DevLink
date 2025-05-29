@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@vueuse/core": "^13.3.0",
+    "axios": "^1.9.0",
+    "dayjs": "^1.11.13",
+    "jwt-decode": "^4.0.0",
+    "vue-toastification": "^2.0.0-rc.5"
+  }
+}

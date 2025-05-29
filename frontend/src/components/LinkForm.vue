@@ -86,7 +86,7 @@
 import { ref, reactive, computed, watch, onMounted } from 'vue'
 import { useToast } from 'vue-toastification'
 import Button from '@/components/common/Button.vue'
-import TagSelector from '@/components/links/TagSelector.vue'
+import TagSelector from './links/TagSelector.vue'
 import { Link } from '@/types'
 import { isValidUrl } from '@/utils/validators'
 
